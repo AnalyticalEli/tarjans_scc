@@ -1,7 +1,7 @@
 # tarjans_scc
 Small Code Snippet of Cybersecurity Machine Learning Product Coming out Soon 
 
-# 🔒 [Product Name] - Cybersecurity ML Core Engine (Preview)
+# 🔒 [Midnight Guardian] - Cybersecurity ML/AI Core Engine (Preview)
 
 *A lightweight preview of the machine learning engine powering [Product Name] — a next-gen cybersecurity solution launching soon.*
 
