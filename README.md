@@ -3,7 +3,7 @@ Small Code Snippet of Cybersecurity Machine Learning Product Coming out Soon
 
 # 🔒 [Midnight Guardian] - Cybersecurity ML/AI Core Engine (Preview)
 
-*A lightweight preview of the machine learning engine powering [Be Safe] — a next-gen cybersecurity solution launching soon.*
+*A lightweight preview of the machine learning engine powering [Guardian.ai] — a next-gen cybersecurity solution launching soon.*
 
 ---
 
